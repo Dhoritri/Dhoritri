@@ -19,7 +19,7 @@
 ### 🔥 Athlyst – AI Fitness Coaching App
 - Full-stack AI-powered fitness coaching platform  
 - Focus: personalized training, tracking, and smart recommendations  
-- Tech: MERN + AI/ML  
+- Tech: NextJs + +PostgressSQL + FastAPI+ AI/ML  
 
 👉 https://github.com/Dhoritri/Athlyst
 
