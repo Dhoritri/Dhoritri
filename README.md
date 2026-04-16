@@ -4,9 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dhoritri">
-    <img src="https://komarev.com/ghpvc/?username=dhoritri&color=0e75b6&style=flat" />
-  </a>
+  <a href="https://dhoritri-github-io.vercel.app/"><b>🌐 Portfolio</b></a> •
+  <a href="https://github.com/Dhoritri"><b>GitHub</b></a> •
+  <a href="https://www.linkedin.com/in/ishrak-alam-0920b71b7/"><b>LinkedIn</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhoritri&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -24,7 +28,7 @@
 ## 🧠 About Me
 - 🎯 Building **real-world full-stack + AI applications**
 - 📱 Currently learning: **Flutter, Dart, Firebase**
-- 💻 Strong in: **MERN, OOP, APIs, System Design basics**
+- 💻 Strong in: **MERN, OOP, APIs**
 - ⚡ Interested in: **AI-driven products & scalable systems**
 
 ---
