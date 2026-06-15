@@ -2,13 +2,11 @@
 <p align="center">
   Full-Stack Developer • Mobile & Desktop Apps • AI/ML Enthusiast
 </p>
-
 <p align="center">
   <a href="https://dhoritri-github-io.vercel.app/"><b>🌐 Portfolio</b></a> •
   <a href="https://github.com/Dhoritri"><b>GitHub</b></a> •
   <a href="https://www.linkedin.com/in/ishrak-alam-0920b71b7/"><b>LinkedIn</b></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhoritri&color=0e75b6&style=flat" />
 </p>
@@ -16,16 +14,30 @@
 ---
 
 ## 🚀 Featured Project
-### 🔥 Athlyst – AI Fitness Coaching App
-- Full-stack AI-powered fitness coaching platform  
-- Focus: personalized training, tracking, and smart recommendations  
-- Tech: NextJs + +PostgressSQL + FastAPI+ AI/ML  
+
+### 🌙 Sakeenah – Quranic Emotional Wellness App
+- A cinematic, contemplative web app for emotional grounding through the Quran
+- Features semantic emotion-to-verse matching, anonymous community journaling, and minimal-friction UX
+- Built with care — no social pressure, no monetization, just presence
+- Tech: React + Node.js + PostgreSQL + AI/ML (semantic embeddings)
+
+👉 [GitHub Repo](https://github.com/Dhoritri/Sakeenah)
+👉 [Live Link](https://sakeenah-kappa.vercel.app/)
+---
+
+## 🔥 Also Building
+
+### Athlyst – AI Fitness Coaching App
+- Full-stack AI-powered fitness coaching platform
+- Focus: personalized training, tracking, and smart recommendations
+- Tech: Next.js + PostgreSQL + FastAPI + AI/ML
 
 👉 https://github.com/Dhoritri/Athlyst
 
 ---
 
 ## 🧠 About Me
+
 - 🎯 Building **real-world full-stack + AI applications**
 - 📱 Currently learning: **Flutter, Dart, Firebase**
 - 💻 Strong in: **MERN, OOP, APIs**
@@ -34,6 +46,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,flutter,firebase,postgres,mysql,git,linux,tailwind,nextjs,tensorflow,pytorch" />
 </p>
@@ -41,11 +54,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhoritri&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoritri&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhoritri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
@@ -53,6 +66,7 @@
 ---
 
 ## 🌐 Connect
+
 <p align="center">
 <a href="https://www.linkedin.com/in/ishrak-alam-0920b71b7/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
